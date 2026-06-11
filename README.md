@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/FalseEnvironment?v=4" alt="FalseEnvironment Avatar" width="150" height="150" style="border-radius: 50%;">
-</p>
-
 <h1 align="center">FalseEnvironment</h1>
 
 <p align="center">
