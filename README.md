@@ -1,5 +1,5 @@
 <p align="center">
-  <i>AI Abuser • Open Source • Arch Linux • Self-hosting maniac</i>
+  <i>AI Abuser • Self-hosting maniac</i>
 </p>
 
 <p align="center">
