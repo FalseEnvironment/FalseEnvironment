@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://matrix.to/#/@falseenvironment:matrix.org">
+  <a href="https://matrix.to/#/@luke:matrix.lukeking12.net">
     <img src="https://img.shields.io/badge/Matrix-@FalseEnvironment-ff8c00?style=for-the-badge&logo=matrix&logoColor=white"/>
   </a>
 </p>
